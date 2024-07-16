@@ -1,0 +1,14 @@
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.AssemblyReference.cache
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.CoreCompileInputs.cache
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\bin\Debug\Lab 1 MY.exe.config
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\bin\Debug\Lab 1 MY.exe
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\bin\Debug\Lab 1 MY.pdb
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.exe
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 1\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.pdb
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\bin\Debug\Lab 1 MY.exe.config
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\bin\Debug\Lab 1 MY.exe
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\bin\Debug\Lab 1 MY.pdb
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.AssemblyReference.cache
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.CoreCompileInputs.cache
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.exe
+D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.pdb
