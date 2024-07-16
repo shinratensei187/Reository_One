@@ -12,3 +12,11 @@ D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэ�
 D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.CoreCompileInputs.cache
 D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.exe
 D:\Хранение\ІПЗ\Курс 1(2 семестр)\Об'эктно орiэнтоване програмування\Лаб 9\Lab 1 (Zavd 1)\Lab 1 MY\Lab 1 MY\obj\Debug\Lab 1 MY.pdb
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\bin\Debug\Lab 1 MY.exe.config
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\bin\Debug\Lab 1 MY.exe
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\bin\Debug\Lab 1 MY.pdb
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.AssemblyReference.cache
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.SuggestedBindingRedirects.cache
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\obj\Debug\Lab 1 MY.csproj.CoreCompileInputs.cache
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\obj\Debug\Lab 1 MY.exe
+E:\University\2 course 2\Practica\part 2\Reository_One\Lab 1 MY\obj\Debug\Lab 1 MY.pdb
